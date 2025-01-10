@@ -1,11 +1,9 @@
-[![MasterHead](https://www.canva.com/design/DAGb0kSGmnU/nJpGoZ0AXWJ4o2izfWbbpA/watch?utm_content=DAGb0kSGmnU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6bedff88c0)]
+![MasterHead](https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif)
 <h1 align="center">Hi 👋, I'm Kalyanshnu Saikia</h1>
 <h3 align="center">A Tech enthusiast on a journey of learning: Web Dev, AI/ML, Web3, & more.</h3>
-<img align="right" alt="Coding" width=400 src="https://backiee.com/wallpaper/techsavvy-anime-programmers-haven/286745">
+<img align="right" alt="Coding" width=400 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyanshnu&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanshnu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalyanshnu" alt="kalyanshnu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kalyanshnu88766" target="blank"><img src="https://img.shields.io/twitter/follow/kalyanshnu88766?logo=twitter&style=for-the-badge" alt="kalyanshnu88766" /></a> </p>
 
@@ -42,4 +40,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanshnu&show_icons=true&locale=en" alt="kalyanshnu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanshnu&" alt="kalyanshnu" /></p>
