@@ -40,3 +40,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanshnu&show_icons=true&locale=en" alt="kalyanshnu" /></p>
 
+![snake gif](https://github.com/kalyanshnu/kalyanshnu/blob/output/github-snake.svg)
